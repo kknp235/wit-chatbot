@@ -1,5 +1,8 @@
 # wit-chatbot
 wit-chatbot used wit.ai as the brain to classify intents and entities. We have added greetings and pizza ordering as a capabilities to the chat bot. You can launch the app and communicate using browser chat window.
+
+### Train your wit.ai server with greetings and pizza ordering examples
+
 ### Installation
 wit-chatbot requires [Node.js](https://nodejs.org/) v4+ to run.
 
